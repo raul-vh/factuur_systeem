@@ -1,5 +1,4 @@
 fpdf
-os
 pytest
 pydantic
 sqlite3
