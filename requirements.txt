@@ -1,0 +1,9 @@
+fpdf
+os
+pytest
+pydantic
+sqlite3
+abc
+typing
+contextlib
+datetime
